@@ -1,4 +1,4 @@
-dynamic team of 2-3 members, with a lead developer steering the project, this static website is built using modern # Tricon Construction Website 🏗️
+# Tricon Realtech Construction Website 🏗️
 
 Welcome to the official repository of the Tricon Construction static website! 🌐
 
