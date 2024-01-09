@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 14 Sep 2023 16:05:07 at https://html.dynamiclayers.net/dl/wengty/index-2.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://html.dynamiclayers.net/dl/wengty/index-2.html -O1 "C:\My Web Sites\admin site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:05:11	Error: 	"Internal Server Error" (500) after 2 retries at link https://html.dynamiclayers.net/robots.txt (from primary/primary)
+16:07:45	Warning: 	Retry after error 500 (Internal Server Error) at link https://html.dynamiclayers.net/dl/wengty/css/Flaticon.svg (from https://html.dynamiclayers.net/dl/wengty/css/flaticon.css)
+16:07:45	Warning: 	Retry after error 500 (Internal Server Error) at link https://html.dynamiclayers.net/dl/wengty/css/owl.video.play.png (from https://html.dynamiclayers.net/dl/wengty/css/owl.carousel.css)
+16:07:45	Warning: 	Retry after error 500 (Internal Server Error) at link https://html.dynamiclayers.net/dl/wengty/js/vendor/jquery.ajaxchimp.min.js (from https://html.dynamiclayers.net/dl/wengty/projects.html)
+16:07:45	Warning: 	Retry after error 500 (Internal Server Error) at link https://html.dynamiclayers.net/dl/wengty/css/Flaticon.svg (from https://html.dynamiclayers.net/dl/wengty/css/flaticon.css)
+16:07:45	Warning: 	Retry after error 500 (Internal Server Error) at link https://html.dynamiclayers.net/dl/wengty/css/owl.video.play.png (from https://html.dynamiclayers.net/dl/wengty/css/owl.carousel.css)
+16:07:46	Warning: 	Retry after error 500 (Internal Server Error) at link https://html.dynamiclayers.net/dl/wengty/js/vendor/jquery.ajaxchimp.min.js (from https://html.dynamiclayers.net/dl/wengty/projects.html)
+16:07:46	Error: 	"Internal Server Error" (500) after 2 retries at link https://html.dynamiclayers.net/dl/wengty/css/Flaticon.svg (from https://html.dynamiclayers.net/dl/wengty/css/flaticon.css)
+16:07:46	Error: 	"Internal Server Error" (500) after 2 retries at link https://html.dynamiclayers.net/dl/wengty/css/owl.video.play.png (from https://html.dynamiclayers.net/dl/wengty/css/owl.carousel.css)
+16:07:47	Error: 	"Internal Server Error" (500) after 2 retries at link https://html.dynamiclayers.net/dl/wengty/js/vendor/jquery.ajaxchimp.min.js (from https://html.dynamiclayers.net/dl/wengty/projects.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 40 seconds : 153 links scanned, 143 files written (11691038 bytes overall) [8527478 bytes received at 53296 bytes/sec], 5156591 bytes transferred using HTTP compression in 81 files, ratio 36%, 25.6 requests per connection
+(4 errors, 6 warnings, 0 messages)
